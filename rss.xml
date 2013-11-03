@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>akislyuk.gbk</title>
+    <description>akislyuk.gbk</description>
+    <link>http://kislyuk.com</link>
+    <pubDate>2013-11-03</pubDate>
+    <item>
+      <title>Archive</title>
+      <link>http://kislyuk.com/archive</link>
+      <description>
+  &lt;h2&gt;2013&lt;/h2&gt;
+    &lt;h3&gt;October&lt;/h3&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;span&gt;2013-10-20&lt;/span&gt; &amp;raquo; &lt;a href="/posts/test"&gt;Hello World&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Categories</title>
+      <link>http://kislyuk.com/categories</link>
+      <description>
+&lt;ul class="tag_box inline"&gt;
+  &lt;li&gt;
+    &lt;a href="/categories#random-ref"&gt;random &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;h3&gt;random (1)&lt;/h3&gt;
+  &lt;ul&gt;
+      &lt;li&gt;&lt;a href="/posts/test"&gt;Hello World&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>http://kislyuk.com/</link>
+      <description>## Hello World
+
+&lt;div class="post"&gt;
+  &lt;h3 class="title"&gt;&lt;a href="/posts/test"&gt;Hello World&lt;/a&gt; &lt;span class="date"&gt;2013-10-20&lt;/span&gt;&lt;/h3&gt;
+
+  &lt;div class="summary"&gt;
+&lt;p&gt;This is a test post.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Step 1: Publish blog&lt;/li&gt;
+&lt;li&gt;Step 2: ???&lt;/li&gt;
+&lt;li&gt;Step 3: Profit!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;Some code.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class="python"&gt;def foo():
+    bar
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+  &lt;div class="more"&gt;
+    &lt;a href="/posts/test" class="btn btn-small"&gt;read more..&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="pagination"&gt;
+  &lt;ul&gt;
+      &lt;li class="active"&gt;&lt;a href="/posts/index/1"&gt;1&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    <item>
+      <title>Pages</title>
+      <link>http://kislyuk.com/pages</link>
+      <description>
+&lt;ul&gt;
+  
+    &lt;li&gt;&lt;a href="/archive"&gt;Archive&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/categories"&gt;Categories&lt;/a&gt;&lt;/li&gt;
+  
+  
+    &lt;li&gt;&lt;a href="/"&gt;Home&lt;/a&gt;&lt;/li&gt;
+  
+    &lt;li class="active"&gt;&lt;a href="/pages" class="active"&gt;Pages&lt;/a&gt;&lt;/li&gt;
+  
+  
+  
+    &lt;li&gt;&lt;a href="/tags"&gt;Tags&lt;/a&gt;&lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Tags</title>
+      <link>http://kislyuk.com/tags</link>
+      <description>
+&lt;ul class="tag_box inline"&gt;
+&lt;/ul&gt;
+
+ 
+</description>
+    </item>
+  </channel>
+</rss>
