@@ -6,7 +6,7 @@ AUTHOR = u'Andrey Kislyuk'
 SITENAME = u'kislyuk.com'
 SITEURL = ''
 
-TIMEZONE = 'Europe/Paris'
+#TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
 
@@ -29,3 +29,5 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+THEME = 'themes/pelican-bootstrap3'
