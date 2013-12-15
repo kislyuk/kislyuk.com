@@ -30,6 +30,11 @@ ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
 endif
 
+all:
+	$(MAKE) html
+	ghp-import output
+	git push --all origin
+
 help:
 	@echo 'Makefile for a pelican Web site                                        '
 	@echo '                                                                       '

@@ -1,3 +1,3 @@
 #!/bin/sh
 
-sudo pip install pelican Markdown
+sudo pip install pelican Markdown ghp-import

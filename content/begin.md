@@ -10,3 +10,4 @@ Hi.
 
 * Step 0: publish blog.
 * Step 1: `rock`
+* Step 3: World domination
