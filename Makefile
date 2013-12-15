@@ -32,8 +32,8 @@ endif
 
 all:
 	$(MAKE) html
-	ghp-import output
-	git push --all origin
+	ghp-import -p output
+	git push
 
 help:
 	@echo 'Makefile for a pelican Web site                                        '
