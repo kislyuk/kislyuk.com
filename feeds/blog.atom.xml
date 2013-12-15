@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>kislyuk.com</title><link href="http://kislyuk.com/" rel="alternate"></link><link href="http://kislyuk.com/feeds/blog.atom.xml" rel="self"></link><id>http://kislyuk.com/</id><updated>2010-12-03T10:20:00Z</updated><entry><title>Begin</title><link href="http://kislyuk.com/my-super-post.html" rel="alternate"></link><updated>2010-12-03T10:20:00Z</updated><author><name>Andrey Kislyuk</name></author><id>tag:kislyuk.com,2010-12-03:my-super-post.html</id><summary type="html">&lt;p&gt;Hi.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Step 0: publish blog.&lt;/li&gt;
+&lt;li&gt;Step 1: &lt;code&gt;rock&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Step 3: World domination&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
