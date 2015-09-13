@@ -17,6 +17,8 @@ body {
   font-family: 'Raleway', sans-serif;
   font-weight: 100;
   font-size: xx-large;
+  text-shadow: 5px 5px 0px #eee, 7px 7px 0px #707070;
+
 }
 
 .shadow {
