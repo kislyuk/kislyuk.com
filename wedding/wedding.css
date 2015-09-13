@@ -62,6 +62,10 @@ a.initnavlink:hover {
   text-transform: uppercase;
 }
 
+.ui-tabs {
+  margin-top: -30px;
+}
+
 .centered .ui-tabs-nav {
   height: 2.35em;
   text-align: center;
