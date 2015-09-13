@@ -65,6 +65,7 @@ a.initnavlink:hover {
 .ui-tabs {
   margin-top: -40px;
   z-index: -1;
+  display: none;
 }
 
 .centered .ui-tabs-nav {
@@ -75,7 +76,6 @@ a.initnavlink:hover {
   display: inline-block;
   float: none !important;
   margin: 1;
-  display: none;
 }
 .ui-tabs-panel {
   font-family: 'Open Sans', sans-serif;
