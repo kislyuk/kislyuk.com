@@ -11,7 +11,7 @@
         $("#tabs").tabs();
         var icons=["&#x266a;", "&#x266b;"];
         $("#icon").html(icons[Math.floor(Math.random() * icons.length)]);
-        
+        $("#tabs").fadeTo(0, 0);
         $(".initnavlink").click(function() {
           $("#tabs").tabs({selected: 2});
           $("#tabs").fadeTo(0, 0.85);
