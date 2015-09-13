@@ -12,17 +12,11 @@
         var icons=["&#x266a;", "&#x266b;"];
         $("#icon").html(icons[Math.floor(Math.random() * icons.length)]);
         $("#tabs").fadeTo(0, 0);
-        $(".initnavlink").click(function() {
+        var tabNames = ["info", "venue", "schedule", "gifts", "gallery", "rsvp"];
+        $(".initnavlink").click(function(e) {
+          $("#tabs").tabs({selected: tabNames.indexOf(e.target.id)});
           $("#tabs").fadeTo(0.3, 0.85);
         });
-        var tabIds = {0: "info", 1: "venue", 2: "schedule", 3: "gifts", 4: "gallery", 5: "rsvp"};
-        for (var tab in tabIds) {
-          $("#" + tabIds[tab]).click(function(e) {
-            console.log("Clicked");
-            console.dir(e);
-            $("#tabs").tabs({selected: tab});
-          });
-        }
       });
     </script>
   </head>
