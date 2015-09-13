@@ -29,5 +29,7 @@ body {
 .nav {
   display: inline;
   font-family: 'Open Sans', sans-serif;
+  font-size: small;
   text-transform: uppercase;
+  
 }
