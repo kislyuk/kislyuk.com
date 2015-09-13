@@ -16,12 +16,18 @@ body {
   text-align: center;
   font-family: 'Raleway', sans-serif;
   font-weight: 100;
-  font-size: x-large;
+  font-size: xx-large;
 }
 
 .subtitle {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   font-style: italic;
-  font-size: large;
+  font-size: x-large;
+}
+
+.nav {
+  display: inline;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
 }
