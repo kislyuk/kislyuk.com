@@ -30,7 +30,6 @@ body {
 }
 
 .nav {
-  display: inline;
   font-family: 'Open Sans', sans-serif;
   font-size: small;
   font-weight: 700;
@@ -38,6 +37,8 @@ body {
 }
 
 ul.nav {
+  display: inline;
+  list-style: none;
   list-style-type: none;
   white-space: nowrap;
 }
