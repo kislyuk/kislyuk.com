@@ -59,6 +59,6 @@ ul.initnav {
 }
 .centered .ui-tabs-nav li {
     display: inline-block;
-    float: none;
+    float: none !important;
     margin: 0em;
 }
