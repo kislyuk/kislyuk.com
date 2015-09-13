@@ -62,3 +62,6 @@ ul.initnav {
     float: none !important;
     margin: 1;
 }
+.ui-tabs-panel {
+  font-family: 'Open Sans', sans-serif;
+}
