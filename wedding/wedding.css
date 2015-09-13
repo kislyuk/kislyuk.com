@@ -36,4 +36,5 @@ body {
 
 ul.nav {
   list-style-type: none;
+  white-space: nowrap;
 }
