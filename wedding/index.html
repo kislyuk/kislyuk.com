@@ -11,6 +11,25 @@
         $("#tabs").tabs();
         var icons=["&#x266a;", "&#x266b;"];
         $("#icon").html(icons[Math.floor(Math.random() * icons.length)]);
+        
+        
+        $("#tabs").tabs({
+         show: {
+             effect: "fadeIn",
+             duration: 500,
+             delay: 500
+         },
+         hide: {
+             effect: "fadeOut",
+             duration: 500,
+             delay: 500
+         },
+         activate: function (event, ui) {
+             // Just for demonstrating
+             $(ui.newPanel).css("color", "red");
+         }
+     });
+        
       });
     </script>
   </head>
