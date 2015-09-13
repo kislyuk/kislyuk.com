@@ -31,5 +31,8 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: small;
   text-transform: uppercase;
+}
+
+ul.nav {
   list-style-type: none;
 }
