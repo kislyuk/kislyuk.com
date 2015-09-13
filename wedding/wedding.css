@@ -2,6 +2,7 @@ body {
   background-color: rgb(251,232,170);
   background-image: url("bg1.jpg");
   background-size: cover;
+  background-repeat: repeat-x;
 }
 
 .content {
