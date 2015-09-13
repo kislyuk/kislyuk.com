@@ -70,7 +70,7 @@ a.initnavlink:hover {
   display: inline-block;
   float: none !important;
   margin: 1;
-  visibility: hidden;
+  display: none;
 }
 .ui-tabs-panel {
   font-family: 'Open Sans', sans-serif;
