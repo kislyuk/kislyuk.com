@@ -31,6 +31,7 @@ body {
 }
 
 .nav {
+  padding: 10% top;
   font-family: 'Open Sans', sans-serif;
   font-size: small;
   font-weight: 700;
