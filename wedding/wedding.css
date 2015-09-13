@@ -48,6 +48,11 @@ ul.initnav {
   white-space: nowrap;
 }
 
+.nav {
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+}
+
 .centered .ui-tabs-nav {
     height: 2.35em;
     text-align: center;
