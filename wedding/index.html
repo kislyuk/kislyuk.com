@@ -17,8 +17,8 @@
         });
         var tabIds = {0: "info", 1: "venue", 2: "schedule", 3: "gifts", 4: "gallery", 5: "rsvp"};
         for (var tab in tabIds) {
-          $(".initnavlink").click(function() {
-            $("#" + tabIds[tab]).tabs({selected: tab});
+          $("#" + tabIds[tab]).click(function() {
+            $("#tabs").tabs({selected: tab});
           });
         }
       });
