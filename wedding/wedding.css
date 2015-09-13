@@ -48,6 +48,15 @@ ul.initnav {
   white-space: nowrap;
 }
 
+a.initnav {
+  color: black;
+  text-decoration: none;
+}
+
+a.initnav:hover {
+  text-decoration: underline;
+}
+
 .nav {
   font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
