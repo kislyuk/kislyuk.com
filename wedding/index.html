@@ -17,7 +17,9 @@
         });
         var tabIds = {0: "info", 1: "venue", 2: "schedule", 3: "gifts", 4: "gallery", 5: "rsvp"};
         for (var tab in tabIds) {
-          $("#" + tabIds[tab]).click(function() {
+          $("#" + tabIds[tab]).click(function(e) {
+            console.log("Clicked");
+            console.dir(e);
             $("#tabs").tabs({selected: tab});
           });
         }
