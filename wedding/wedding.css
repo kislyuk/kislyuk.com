@@ -49,10 +49,11 @@ ul.initnav {
 }
 
 .ui-tabs .ui-tabs-nav {
-    text-align: center;
+  text-align: center;
 }
 
 .ui-tabs .ui-tabs-nav li {
-    float: none !important;
-    display: inline-block;
+  float: none !important;
+  display: inline-block;
+  margin: 0em;
 }
