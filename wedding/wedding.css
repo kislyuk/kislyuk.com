@@ -17,12 +17,10 @@ body {
   font-family: 'Raleway', sans-serif;
   font-weight: 100;
   font-size: xx-large;
-  text-shadow: 5px 5px 0px #eee, 7px 7px 0px #707070;
-
 }
 
 .shadow {
-  text-shadow: 0px 0px 10px white;
+  text-shadow: 0px 0px 10px white, 7px 7px 0px black;
 }
 
 .subtitle {
@@ -35,7 +33,6 @@ body {
 .nav {
   padding-top: 5px;
   font-family: 'Open Sans', sans-serif;
-  font-size: small;
   font-weight: 700;
   text-transform: uppercase;
 }
