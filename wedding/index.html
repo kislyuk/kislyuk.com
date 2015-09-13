@@ -14,6 +14,8 @@
         $("#tabs").fadeTo(0, 0);
         var tabNames = ["info", "venue", "schedule", "gifts", "gallery", "rsvp"];
         $(".initnavlink").click(function(e) {
+          console.dir(e);
+          console.log("Selecting "+tabNames.indexOf(e.target.id));
           $("#tabs").tabs({selected: tabNames.indexOf(e.target.id)});
           $("#tabs").fadeTo(0.3, 0.85);
         });
