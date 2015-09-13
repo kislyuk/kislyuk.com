@@ -64,6 +64,7 @@ a.initnavlink:hover {
 
 .ui-tabs {
   margin-top: -30px;
+  z-index: -1;
 }
 
 .centered .ui-tabs-nav {
