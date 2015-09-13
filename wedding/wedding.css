@@ -48,12 +48,11 @@ ul.initnav {
   white-space: nowrap;
 }
 
-.centered .ui-tabs-nav {
-    height: 2.35em;
+.ui-tabs .ui-tabs-nav {
     text-align: center;
 }
-.centered .ui-tabs-nav li {
+
+.ui-tabs .ui-tabs-nav li {
+    float: none !important;
     display: inline-block;
-    float: none;
-    margin: 0em;
 }
