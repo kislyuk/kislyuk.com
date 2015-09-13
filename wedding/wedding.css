@@ -74,4 +74,5 @@ a.initnavlink:hover {
 .ui-tabs-panel {
   font-family: 'Open Sans', sans-serif;
   background-color: 255 255 255 0.5;
+  visibility: hidden;
 }
