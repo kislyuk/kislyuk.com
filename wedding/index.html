@@ -14,7 +14,7 @@
         $("#tabs").fadeTo(0, 0);
         var tabNames = ["info", "venue", "schedule", "gifts", "gallery", "rsvp"];
         $(".initnavlink").click(function(e) {
-          $(".initnav").set("font-size", "large");
+          $(".initnav").css("font-size", "large");
           console.dir(e);
           console.log("Selecting "+tabNames.indexOf(e.target.id));
           $("#tabs").tabs("option", "active", tabNames.indexOf(e.target.id));
