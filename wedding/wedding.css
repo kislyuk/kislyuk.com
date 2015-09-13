@@ -63,16 +63,16 @@ a.initnavlink:hover {
 }
 
 .centered .ui-tabs-nav {
-    height: 2.35em;
-    text-align: center;
+  height: 2.35em;
+  text-align: center;
 }
 .centered .ui-tabs-nav li {
-    display: inline-block;
-    float: none !important;
-    margin: 1;
+  display: inline-block;
+  float: none !important;
+  margin: 1;
+  visibility: hidden;
 }
 .ui-tabs-panel {
   font-family: 'Open Sans', sans-serif;
   background-color: 255 255 255 0.5;
-  visibility: hidden;
 }
