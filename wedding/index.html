@@ -12,9 +12,10 @@
         var icons=["&#x266a;", "&#x266b;"];
         $("#icon").html(icons[Math.floor(Math.random() * icons.length)]);
         
-        
-        $("#tabs").fadeTo(0, 0.8);
-        
+        $(".initnavlink").click(function() {
+          $("#tabs").tabs({selected: 2});
+          $("#tabs").fadeTo(0, 0.85);
+        });
       });
     </script>
   </head>
@@ -25,17 +26,17 @@
       <h2 class=subtitle>are getting married</h2>
       <h3 id=icon>&#x266b;</h3>
       <div class=initnav>
-        <a id=info>Info</a>
+        <a class=initnavlink id=info href="#tabs-1-info">Info</a>
         &nbsp;&bull;&nbsp;
-        <a id=venue>Venue</a>
+        <a class=initnavlink id=venue href="#tabs-2-venue">Venue</a>
         &nbsp;&bull;&nbsp;
-        <a id=gifts>Schedule</a>
+        <a class=initnavlink id=schedule href="#tabs-3-schedule">Schedule</a>
         &nbsp;&bull;&nbsp;
-        <a id=gifts>Gifts</a>
+        <a class=initnavlink id=gifts href="#tabs-4-gifts>Gifts</a>
         &nbsp;&bull;&nbsp;
-        <a id=gallery>Gallery</a>
+        <a class=initnavlink id=gallery href="#tabs-5-gallery">Gallery</a>
         &nbsp;&bull;&nbsp;
-        <a id=rsvp>RSVP</a>
+        <a class=initnavlink id=rsvp href="#tabs-6-rsvp">RSVP</a>
       </div>
     </div>
 
