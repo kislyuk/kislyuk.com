@@ -65,12 +65,12 @@ a.initnavlink:hover {
 .ui-tabs {
   margin-top: -40px;
   z-index: -1;
-  display: none;
 }
 
 .centered .ui-tabs-nav {
   height: 2.35em;
   text-align: center;
+  display: none;
 }
 .centered .ui-tabs-nav li {
   display: inline-block;
