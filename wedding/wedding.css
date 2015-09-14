@@ -59,6 +59,7 @@ a.initnavlink:hover {
 }
 
 .nav {
+  padding-top: 5px;
   font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
 }
