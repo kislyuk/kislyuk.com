@@ -17,6 +17,7 @@ body {
 }
 
 .titlebox {
+  padding-bottom: 5px;
   text-align: center;
   font-family: 'Raleway', sans-serif;
   font-weight: 100;
@@ -59,7 +60,6 @@ a.initnavlink:hover {
 }
 
 .nav {
-  padding-top: 5px;
   font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
 }
