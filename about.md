@@ -37,9 +37,9 @@ My graduate advisor was [Joshua Weitz](https://en.wikipedia.org/wiki/Joshua_Weit
 
 A few notable state of the art infrastructure projects that I implemented include an
 [LXC](https://linuxcontainers.org/)-based cloud PaaS virtualization service which continues to power millions of jobs
-and Docker apps on the [DNAnexus Titan](https://www.dnanexus.com/product-overview/titan) platform, an independent
+and Docker apps on the [DNAnexus Titan](https://www.dnanexus.com/product-overview/titan) platform; an independent
 implementation of [SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language), OAuth2/OIDC, and their
-underlying technologies for single sign-on applications, an AWS IAM-based symbolic RBAC PDP service, and multiple API
+underlying technologies for single sign-on applications; an AWS IAM-based symbolic RBAC PDP service; and multiple API
 designs, CLI tools, and developer productivity tools for a variety of products. On the science side, I have mostly
 been involved in integration and tuning of existing genomics and machine learning software written by people smarter
 than me, but you can see some of my concrete contributions in my
