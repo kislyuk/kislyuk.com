@@ -1,5 +1,5 @@
 name: Andrey Kislyuk
-masthead_title: Andrey Kislyuk - personal website
+masthead_title: Andrey Kislyuk
 title: Andrey Kislyuk
 subtitle: Personal website
 logo: https://avatars1.githubusercontent.com/u/862013
@@ -18,11 +18,14 @@ twitter: "akislyuk"
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.20.2"
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 #theme: minimal-mistakes-jekyll
 plugins:
+  - jekyll-paginate
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-include-cache
 
 # Exclude from processing.
