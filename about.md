@@ -7,8 +7,8 @@ permalink: /about/
 <img align="right" src="https://avatars1.githubusercontent.com/u/862013" width=200px height=200px>
 
 Hi! I am a software engineer and a bioinformatician. I work at the
-[Chan Zuckerberg Initiative](https://chanzuckerberg.com/science/), where I currently spend most of my time doing
-infrastructure work on the [IDseq](https://idseq.net/) project. My job is to enable the IDseq team to ensure our product
+[Chan Zuckerberg Initiative](https://chanzuckerberg.com/science/), where I currently spend most of my time building
+infrastructure for the [IDseq](https://idseq.net/) project. My job is to enable the IDseq team to ensure our product
 analyzes pathogen DNA reliably, correctly, and quickly at all times, as well as to collaborate with the scientific and
 engineering community at large - for example, by sharing our production analysis methods as code in the
 [idseq-workflows](https://github.com/chanzuckerberg/idseq-workflows) repo. Recently, IDseq has been used by
@@ -26,8 +26,8 @@ the AWS leadership principle of customer obsession and use it to guide decisions
 involved with.
 
 Before my industry career, I graduated from [UC Berkeley](https://www.berkeley.edu/) with a triple major in computer
-science, mathematics, and statistics, and from [Georgia Tech](https://www.gatech.edu/) with a PhD in bioinformatics.
-My undergraduate research work was at Lawrence Berkeley Lab with
+science, mathematics, and statistics. I then went to grad school at [Georgia Tech](https://www.gatech.edu/) and
+graduated with a PhD in bioinformatics. My undergraduate research work was at Lawrence Berkeley Lab with
 [Inna Dubchak](https://biosciences.lbl.gov/profiles/inna-dubchak-2/) and
 [Mike Brudno](http://www.cs.toronto.edu/~brudno/public/). Together with Mike's advisor
 [Serafim Batzoglou](https://en.wikipedia.org/wiki/Serafim_Batzoglou), we created the
