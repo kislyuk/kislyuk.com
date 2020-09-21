@@ -1,4 +1,10 @@
+name: Andrey Kislyuk
+masthead_title: Andrey Kislyuk - personal website
 title: Andrey Kislyuk - personal website
+subtitle: Subtitle
+logo: https://avatars1.githubusercontent.com/u/862013
+repository: kislyuk
+breadcrumbs: true
 email: kislyuk@gmail.com
 description: >-
   Write an awesome description for your new site here. You can edit this
@@ -8,10 +14,13 @@ baseurl: ""
 url: "https://kislyuk.com"
 twitter_username: akislyuk
 github_username:  kislyuk
-
+twitter:
+  username: "akislyuk"
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.20.2"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 #theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
@@ -28,3 +37,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
