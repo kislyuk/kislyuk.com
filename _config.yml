@@ -14,8 +14,7 @@ baseurl: ""
 url: "https://kislyuk.com"
 twitter_username: akislyuk
 github_username:  kislyuk
-twitter:
-  username: "akislyuk"
+twitter: "akislyuk"
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.20.2"
@@ -38,6 +37,46 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+author:
+  name             : "Andrey Kislyuk"
+  avatar           : https://avatars1.githubusercontent.com/u/862013
+  bio              : "BIO GOES HERE"
+  location         : "San Francisco"
+  email            : kislyuk@gmail.com
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kislyuk@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://kislyuk.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/akislyuk"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/kislyuk"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kislyuk"
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kislyuk@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://kislyuk.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/akislyuk"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/kislyuk"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kislyuk"
+
 defaults:
   # _posts
   - scope:
@@ -45,3 +84,20 @@ defaults:
       type: posts
     values:
       show_date: true
+
+# Markdown Processing
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
