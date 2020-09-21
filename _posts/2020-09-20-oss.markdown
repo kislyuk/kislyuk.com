@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "OSS developer experiences"
+date:   2020-09-20 21:19:35 -0700
+categories: github oss
+---
+
+I have been an open source software developer since 2005. There are many reasons why I contribute OSS, but the bottom line is that writing software that will be free forever and that others find useful brings me great joy and fulfillment. I’m sure I’m not alone in this. I’ve acquired my most important software engineering skills in the context of OSS development. I’ve been lucky enough to be mentored by very talented engineers and to mentor others in venues like GSoC as well.
+
+And I’ve been lucky enough to author and contribute a few packages that have enjoyed modest popularity. As any developer can attest, the software that ends up being popular is not the most algorithmically or scientifically profound, nor what I consider the most valuable. And that’s fine.
+
+A few years ago, I wrote a utility that ended up being among my more popular projects. A few months later, someone else started a similar project with different design goals, and unintentionally used the same name as mine. That’s fine, name collisions happen. We can coexist.
+
+I don’t go out seeking controversy when doing OSS work. I also don’t do growth hacking on my OSS projects; all my projects grew their adoption organically, and I’m proud of that. So imagine my surprise when a few weeks ago someone opened an issue in my project saying that it "should be deprecated in favor of (other project)”, that I should upload the other project’s build artifacts to the package manager to replace mine, and that my project "creates problems.”
+
+At the time I had a lot of other things to take care of urgently, so I just looked at the issue in bewilderment, closed it, and moved on. Only recently while sorting through a backlog of issues in need of attention across my OSS projects did I look back at this and realize the ridiculous insidiousness of this comment.
+
+Open source software developers volunteer their time to contribute software for free as an unambiguous public good. To tell an OSS developer that they should delete their project is a completely unacceptable way of communicating. It’s a form of harassment, and I will call it out as such.
+
+The main reason I bring this up here is to raise awareness. I have enough experience to blow this off and move on without a second thought, but I can easily imagine myself 10 years earlier, when some comment like this from someone I perceive to be competent might discourage me from continuing altogether.
+
+Among the many issues in the world, this one should be relatively easy to spot and eliminate. If you see someone saying something like this or otherwise giving grief to an OSS maintainer, chime in and call it out for what it is: harassment. Perhaps the harasser will adjust their behavior, perhaps not, but in any case it can give the maintainer confidence to ignore them. You never know when this bit of support and encouragement might foster the next confident individual, and inspire their amazing contributions to society.
+
+And perhaps think of any unsponsored open source software that you use and admire the most, and reach out to its volunteer maintainers to thank them (I know I don’t do this enough). 
