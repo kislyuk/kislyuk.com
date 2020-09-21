@@ -39,6 +39,15 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+main:
+  - title: "About"
+    url: /about
+  - title: "Posts"
+    url: /year-archive
+  - title: "Links"
+    url: /links
+  - title: "Photos"
+    url: /links
 
 author:
   name             : "Andrey Kislyuk"
