@@ -43,7 +43,7 @@ rapport her next step was always to give the person a copy of the book,
 The simple and profound truth is that truly empathising with each person on your team is a necessary and often
 sufficient condition for upleveling your communication skills to the point where they are no longer a limiting
 factor in your professional growth. The content of the book is just as applicable to adults as it is to children.
-In worklace teams, we are trained to suppress the negative emotions that come from neglecting our need for
+In workplace teams, the default dynamic is to suppress the negative emotions that come from neglecting our need for
 empathy - with major negative consequences. If even marginally emotionally abusive behavior is normalized, the team
 suffers permanent damage and can no longer function properly. Conversely, empathetic, emotionally aware, and
 comprehensive communication empowers the team to make incremental improvements which translate to greatly
