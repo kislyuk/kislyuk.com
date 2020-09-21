@@ -83,6 +83,9 @@ defaults:
       path: ""
       type: posts
     values:
+      layout: single
+      author_profile: true
+      share: true
       show_date: true
 
 # Markdown Processing
