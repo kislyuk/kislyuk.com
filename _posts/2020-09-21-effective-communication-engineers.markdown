@@ -27,7 +27,7 @@ communication as well as teaching skills through TA work in graduate school. Eve
 relatively small, because most organizations don't actually verbalize the success factors that enable effective
 communication in their engineering teams.
 
-Google's "people ops" ("HR department that hopefully doesn't suck") department put together a [nice
+Google's "people ops" ("HR department that hopefully doesn't suck") put together a [nice
 website](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) outlining some of these key success
 factors, but even that only just begins to summarize the key insights that engineers realize over time.
 
