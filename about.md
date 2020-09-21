@@ -33,8 +33,9 @@ graduated with a PhD in bioinformatics. My undergraduate research work was at La
 [Serafim Batzoglou](https://en.wikipedia.org/wiki/Serafim_Batzoglou), we created the
 [first global multiple genome alignment of multiple large eukaryotic genomes](https://genome.cshlp.org/content/19/4/682.long).
 My graduate advisor was [Joshua Weitz](https://en.wikipedia.org/wiki/Joshua_Weitz), and my thesis title was
-[Algorithm development for next generation sequencing-based metagenome analysis](https://smartech.gatech.edu/bitstream/handle/1853/42779/kislyuk_andrey_o_201012_phd.pdf). But a lot of what I learned during my time in grad school, I actually learned at
-[Black Knight Martial Arts](http://www.blackknight.com/).
+[Algorithm development for next generation sequencing-based metagenome analysis](https://smartech.gatech.edu/bitstream/handle/1853/42779/kislyuk_andrey_o_201012_phd.pdf).
+You can read more exciting details in my [CV](akislyuk.pdf). But a lot of what I learned during my time in grad school,
+I actually learned at [Black Knight Martial Arts](http://www.blackknight.com/).
 
 A few notable state of the art infrastructure projects that I implemented include an
 [LXC](https://linuxcontainers.org/)-based cloud PaaS virtualization service which continues to power millions of jobs
