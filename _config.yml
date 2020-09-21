@@ -11,7 +11,7 @@ github_username:  kislyuk
 
 # Build settings
 markdown: kramdown
-theme: primer
+theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
 
