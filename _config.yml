@@ -43,16 +43,13 @@ plugins:
 author:
   name             : "Andrey Kislyuk"
   avatar           : https://avatars1.githubusercontent.com/u/862013
-  bio              : "BIO GOES HERE"
+  bio              : "Software engineer and bioinformatician"
   location         : "San Francisco"
   email            : kislyuk@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kislyuk@gmail.com"
-    - label: "Website"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://kislyuk.com"
+      url: "https://scholar.google.com/citations?user=7deTos4AAAAJ&sortby=pubdate"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/akislyuk"
