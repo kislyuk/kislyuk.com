@@ -20,7 +20,7 @@ the design and implementation of genome analysis systems and cloud platforms. I 
 state of the art systems for DNA sequence analysis, machine learning applications in genomics, scalable distributed
 systems for genomics, API design, Linux systems, information security, and development operations. Specific applications
 that I was involved with include single-molecule DNA sequencing R&D, microbial genome and metagenome annotation and
-interpretation, single-cell sequencing, variant calling and interpretation, and phylogenomics. Since 2011, I have
+interpretation, single-cell sequencing, variant calling/interpretation, and phylogenomics. Since 2011, I have
 been using Amazon Web Services to build these solutions, and I am now an expert in many AWS technologies. I also admire
 the AWS leadership principle of customer obsession and use it to guide decisions in teams and products that I am
 involved with.
