@@ -21,11 +21,14 @@ COMMENT     REVIEWED REFSEQ: This record has been curated by the author. The
             COMPLETENESS: full length.
 FEATURES             Location/Qualifiers
      source          1..1765118
-                     /strain="LP700-4"
+                     /strain="GA102-300-A1"
                      /origin="Russia"
-     affiliation     <a href="http://dnanexus.com/">DNAnexus, Inc.</a>
+     affiliation     <a href="https://chanzuckerberg.com/">Chan Zuckerberg Initiative</a>
                      /title="Software Engineer"
-                     /start_date="September 2011"
+                     /start_date="February 2017"
+     affiliation     <a href="https://dnanexus.com/">DNAnexus, Inc.</a>
+                     /title="Software Engineer"
+                     /date_range="September 2011 - February 2016"
      affiliation     <a href="http://pacificbiosciences.com/">Pacific Biosciences of California, Inc.</a>
                      /title="Scientist, Bioinformatics"
                      /date_range="February 2010 - September 2011"
@@ -38,8 +41,7 @@ FEATURES             Location/Qualifiers
                      analysis, evolutionary genomics, metagenomics, genome
                      sequencing, machine learning, software engineering, high
                      performance computing, bioengineering."
-     publications    /db_xref="<a href="http://www.citeulike.org/author/Kislyuk:A">CiteULike</a>"
-                     /db_xref="<a href="https://scholar.google.com/citations?user=7deTos4AAAAJ">Google Scholar</a>"
+     publications    /db_xref="<a href="https://scholar.google.com/citations?user=7deTos4AAAAJ">Google Scholar</a>"
                      /link="<a href="http://topaz.gatech.edu/~kislyuk/kislyuk2009a.pdf">kislyuk2009a.pdf</a>"
      code            <!--/projects="Gentoo Linux scientific computing"
                      /tracker="<a href="/web/20140402063352/http://cia.vc/stats/author/weaver">cia</a>"
@@ -53,6 +55,4 @@ FEATURES             Location/Qualifiers
      contact         /email="<script type="text/javascript">Rot13.write("<n uers=znvygb:xvfylhx@tngrpu.rqh>xvfylhx@tngrpu.rqh</n>");</script>"
      CV              /document="<a href=http://kislyuk.com/akislyuk.pdf>PDF</a>"
                      /link="<a href=https://www.linkedin.com/profile/view?id=37639591>LinkedIn</a>"
-//
-
-</pre>
+//</pre>
