@@ -45,7 +45,7 @@ engagement for any tool or project that hopes to succeed in this space.
 [Subjectively](https://www.nature.com/articles/s41592-020-0886-9), the workflow description and management projects
 with the most traction in the community are [Snakemake](https://snakemake.readthedocs.io/en/stable/),
 [Nextflow](https://www.nextflow.io/), [CWL](https://www.commonwl.org/) and [WDL](https://openwdl.org/). Each of these 
-projects boasts a vibrant user community, a reach feature set, and a sustained development history. In my day-to-day work
+projects boasts a vibrant user community, a rich feature set, and a sustained development history. In my day-to-day work
 I have ended up using WDL extensively. This is in large part due to the excellent work of my colleague
 [Mike Lin](https://www.mlin.net/). Thanks to Mike, WDL is the only workflow language with multiple production runtime
 implementations, and one of very few with a formal, tested language specification. The next ingredient for success is a
@@ -56,7 +56,7 @@ informed focus on developer productivity: it emphasizes speed of execution, usab
 good error messages that support the developer when something goes wrong. In fact, miniwdl started as a linter, which
 reflects this focus on developer experience.
 
-By itself, miniwdl is great at running workflows on a single computer, but it does not yet integrate well with
+By itself, miniwdl is great at running workflows on a single computer, but it does not yet integrate directly with
 cloud-based systems like the AWS Batch API that I mentioned earlier. And this is where I finish setting the stage and
 dive into the novel part of this blog post: a miniwdl plugin providing an execution backend to run WDL workflows on AWS
 Fargate containers.
