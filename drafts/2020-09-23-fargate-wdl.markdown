@@ -33,6 +33,10 @@ connected to a shared NFS filesystem. Today, these same scripts can be run on cl
 - They allow easy access to the resulting data (for example, by uploading it to S3, where any authorized web application
   can access it).
 
+- They make all of this infrastructure more accessible: anyone can create an AWS account for free and operate scientific
+  computing infrastructure that previously required hundreds of thousands of dollars of upfront investment and approval
+  by institutional administrators.
+
 Shell scripts are great, but it's not clear how they can be used as units of reproducible/composable scientific
 computing. The community has come up with a
 [bewildering array](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
@@ -48,8 +52,9 @@ with the most traction in the community are [Snakemake](https://snakemake.readth
 projects boasts a vibrant user community, a rich feature set, and a sustained development history. In my day-to-day work
 I have ended up using WDL extensively. This is in large part due to the excellent work of my colleague
 [Mike Lin](https://www.mlin.net/). Thanks to Mike, WDL is the only workflow language with multiple production runtime
-implementations, and one of very few with a formal, tested language specification. The next ingredient for success is a
-deep focus on developer tooling provided by the [miniwdl](https://github.com/chanzuckerberg/miniwdl) project.
+(interpreter) implementations, and one of very few with a formal, tested language specification. The next ingredient for
+success is a deep focus on developer tooling provided by the [miniwdl](https://github.com/chanzuckerberg/miniwdl)
+project.
 
 Miniwdl is a WDL interpreter and runtime (workflow runner). Like all foundational software, miniwdl started with a deep,
 informed focus on developer productivity: it emphasizes speed of execution, usable interfaces and abstractions, and
