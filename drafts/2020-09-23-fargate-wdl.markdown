@@ -33,9 +33,9 @@ connected to a shared NFS filesystem. Today, these same scripts can be run on cl
 - They allow easy access to the resulting data (for example, by uploading it to S3, where any authorized web application
   can access it).
 
-- They lower the barrier to entry: anyone can create a cloud PaaS account for free and operate scientific computing
-  infrastructure that previously required hundreds of thousands of dollars of upfront investment and approval by
-  institutional administrators.
+- They lower the barrier to entry: anyone can create a cloud PaaS account for free and pay as they go to operate
+  scientific computing infrastructure that previously required hundreds of thousands of dollars of upfront investment
+  and approval by institutional administrators.
 
 Shell scripts are great, but it's not clear how they can be used as units of reproducible/composable scientific
 computing. The community has come up with a
