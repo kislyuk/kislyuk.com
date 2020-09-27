@@ -24,7 +24,7 @@ connected to a shared NFS filesystem. Today, these same scripts can be run on cl
 [AWS Batch](https://aws.amazon.com/batch/), which enable several key improvements:
 
 - They use Docker containers, which empower developers to use whatever software they need, and play a key role in
-  enabling reproducibility (a big deal in science).
+  enabling reproducibility (a big priority in science).
 
 - They provide on-demand compute capacity, which allows you to burst scale your "cluster" to very large numbers of VMs
   without paying for running them all the time (scientists tend to run workloads in very lumpy ways - the load on your
@@ -33,9 +33,9 @@ connected to a shared NFS filesystem. Today, these same scripts can be run on cl
 - They allow easy access to the resulting data (for example, by uploading it to S3, where any authorized web application
   can access it).
 
-- They make all of this infrastructure more accessible: anyone can create an AWS account for free and operate scientific
-  computing infrastructure that previously required hundreds of thousands of dollars of upfront investment and approval
-  by institutional administrators.
+- They lower the barrier to entry: anyone can create a cloud PaaS account for free and operate scientific computing
+  infrastructure that previously required hundreds of thousands of dollars of upfront investment and approval by
+  institutional administrators.
 
 Shell scripts are great, but it's not clear how they can be used as units of reproducible/composable scientific
 computing. The community has come up with a
