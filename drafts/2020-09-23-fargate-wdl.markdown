@@ -77,7 +77,7 @@ environment, you're going to be dispatching it to a cloud container management A
 in those APIs, it can take a long time - minutes - to provision a VM for your workflow. That will kill your development
 velocity - and it will also pile up burst scaling latency and job dispatch overhead in production. With Fargate,
 containers take about 10 seconds to start (not perfect, but still much faster than cold-starting containers with other
-cloud APIs).
+cloud APIs) - and you are still billed by the second with a 60-second minimum, just like in EC2.
 
 Another aspect of this work is to make these tools accessible to anybody with an AWS account - and to make sure that
 the baseline compute capacity is zero, so there are no nasty billing surprises at the end of the month. To achieve this,
