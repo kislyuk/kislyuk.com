@@ -96,7 +96,7 @@ can follow the [official AWS EFS guide](https://docs.aws.amazon.com/efs/latest/u
 [aegea](https://github.com/kislyuk/aegea) tool and run `aegea efs create wdltest --tags mountpoint=/mnt/efs` followed by
 `aegea launch wdltest --security-group aegea.efs` and `aegea ssh wdltest` to launch and connect to the EC2 instance.
 
-After these steps are complete, let's mount the EFS filesystem on the orchestrator EC2 instance:
+After these steps are complete, let's install the prerequisites on the orchestrator EC2 instance:
 
 ```
 pip3 install git+https://github.com/chanzuckerberg/miniwdl-plugins@akislyuk-aws-fargate-executor#subdirectory=aws-fargate
