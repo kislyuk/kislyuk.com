@@ -40,7 +40,7 @@ connected to a shared NFS filesystem. Today, these same scripts can be run on cl
 Shell scripts are great, but it's not clear how they can be used as units of reproducible/composable scientific
 computing. The community has come up with a
 [bewildering array](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems)
-of workflow description languages, which by and large attempt to address the key needs for describing workflow inputs
+of workflow management frameworks, which by and large attempt to address the key needs for describing workflow inputs
 and outputs and establishing the runtime contract between the workflows and their execution environment. Given the
 number of "mostly dead" projects on the list linked above, it is clear that the problem of workflow description and
 management is very non-trivial and requires careful attention to software interfaces, abstractions, and community
