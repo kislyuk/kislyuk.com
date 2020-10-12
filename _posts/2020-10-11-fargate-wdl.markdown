@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Cromulent: WDL workflows with miniwdl and AWS Fargate"
-date:   2020-09-23 21:19:35 -0700
+date:   2020-10-11 21:19:35 -0700
 categories: engineering
 ---
 
