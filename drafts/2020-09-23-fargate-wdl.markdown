@@ -54,7 +54,9 @@ I have ended up using WDL extensively. This is in large part due to the excellen
 [Mike Lin](https://www.mlin.net/). Thanks to Mike, WDL is the only workflow language with multiple production runtime
 (interpreter) implementations, and one of very few with a formal, tested language specification. The next ingredient for
 success is a deep focus on developer tooling provided by the [miniwdl](https://github.com/chanzuckerberg/miniwdl)
-project.
+project. (My employer, CZI, sponsors miniwdl development; the CZI EOSS grant program also sponsors
+[Nextflow](https://seqera.io/news/czi-eoss-funding/) and
+[CWL](https://chanzuckerberg.com/eoss/proposals/enabling-biomedical-science-with-common-workflow-language/)).
 
 Miniwdl is a WDL interpreter and runtime (workflow runner). Like all foundational software, miniwdl started with a deep,
 informed focus on developer productivity: it emphasizes speed of execution, usable interfaces and abstractions, and
@@ -99,7 +101,17 @@ can follow the [official AWS EFS guide](https://docs.aws.amazon.com/efs/latest/u
 After these steps are complete, let's install the prerequisites on the orchestrator EC2 instance:
 
 ```
-pip3 install git+https://github.com/chanzuckerberg/miniwdl-plugins@akislyuk-aws-fargate-executor#subdirectory=aws-fargate
+pip3 install git+https://github.com/chanzuckerberg/miniwdl-plugins#subdirectory=aws-fargate
+```
+
+To configure miniwdl to use the Fargate scheduler, we need set the `container_backend` config option by either running
+```
+export MINIWDL__SCHEDULER__CONTAINER_BACKEND=aws_fargate
+```
+or adding the following lines to the file `~/.config/miniwdl.cfg`:
+```
+[scheduler]
+container_backend = aws_fargate
 ```
 
 For our first test workflow run, let's use the [Dockstore](https://dockstore.org/)
