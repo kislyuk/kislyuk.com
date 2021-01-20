@@ -7,9 +7,7 @@ repository: kislyuk
 breadcrumbs: true
 email: kislyuk@gmail.com
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal website of Andrey Kislyuk, a software engineer and bioinformatician in the San Francisco Bay Area.
 baseurl: ""
 url: "https://kislyuk.com"
 twitter_username: akislyuk
