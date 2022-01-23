@@ -17,15 +17,17 @@ infrastructure for the [CZID](https://czid.org/) project (also known as IDseq); 
 as open source in the [SWIPE](https://github.com/chanzuckerberg/swipe) and 
 [czid-workflows](https://github.com/chanzuckerberg/czid-workflows) repositories.
 
-Prior to CZI, I was involved with a number of biotech startups which gave me the opportunity to become an expert in
+Prior to CZI, I was involved with several biotechnology startups which gave me the opportunity to become an expert in
 the design and implementation of genome analysis systems and cloud platforms. I am particularly known for building
 state of the art systems for DNA sequence analysis, machine learning applications in genomics, scalable distributed
 systems for genomics, API design, Linux systems, information security, and development operations. Specific applications
 that I was involved with include single-molecule DNA sequencing R&D, microbial genome and metagenome annotation and
 interpretation, single-cell sequencing, variant calling/interpretation, and phylogenomics. Since 2011, I have
-been using Amazon Web Services to build these solutions, and I am now an expert in many AWS technologies. I also admire
-the AWS leadership principle of customer obsession and use it to guide decisions in teams and products that I am
-involved with.
+been using Amazon Web Services to build these solutions, and I am now an expert in many AWS technologies as well as
+Terraform, an essential [IaC](https://en.wikipedia.org/wiki/Infrastructure_as_code) tool used to configure and manage
+assets on AWS. Some of the tools my teams use every day to manage AWS assets are available as open source in the
+[Aegea](https://github.com/kislyuk/aegea) project, as well as other projects listed on my
+[GitHub profile](https://github.com/kislyuk).
 
 Before my industry career, I graduated from [UC Berkeley](https://www.berkeley.edu/) with a triple major in computer
 science, mathematics, and statistics. I then went to grad school at [Georgia Tech](https://www.gatech.edu/) and
