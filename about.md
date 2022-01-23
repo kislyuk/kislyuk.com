@@ -48,8 +48,8 @@ implementation of [SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup
 underlying technologies for single sign-on applications; an AWS IAM-based symbolic RBAC PDP service; and multiple API
 designs, CLI tools, and developer productivity tools for a variety of products. On the science side, I have mostly
 been involved in integration and tuning of existing genomics and machine learning software written by people smarter
-than me, but you can see some of my concrete contributions in my
-[Google Scholar](https://scholar.google.com/citations?user=7deTos4AAAAJ&sortby=pubdate) profile.
+than me, but you can see some of my concrete contributions on my [GitHub](https://github.com/kislyuk) and
+[Google Scholar](https://scholar.google.com/citations?user=7deTos4AAAAJ&sortby=pubdate) profiles.
 
 The technologies I use in my daily work include Terraform, AWS Fargate, S3, EFS, Lambda, Step Functions, IAM,
 RDS/Aurora, Python, Rust, OIDC, LXC, Docker, [cloud-init](https://cloud-init.io/), as well as many genomics tools
