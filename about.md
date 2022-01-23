@@ -6,15 +6,16 @@ permalink: /about/
 
 <img align="right" src="https://avatars1.githubusercontent.com/u/862013" width=200px height=200px>
 
-Hi! I am a software engineer and a bioinformatician. I work at [Color](https://color.com), where I help build
-the future of genetic testing, population genomics, and healthcare delivery. Color has rapidly scaled to address
-the healthcare needs related to the COVID-19 pandemic, and I am lucky to be part of this effort.
+Hi! I am a software engineer and a bioinformatician. I work at [Color](https://color.com), where I lead the genomics
+software engineering team and help build the future of genetic testing, population genomics, and healthcare delivery.
+Color has rapidly scaled to address the healthcare needs related to the COVID-19 pandemic, and I am lucky to be part
+of this effort.
 
 Prior to Color, I worked at the
 [Chan Zuckerberg Initiative](https://chanzuckerberg.com/science/), where I spent most of my time building
-infrastructure for the [CZID](https://czid.org/) project; a lot of this work is available as open source
-in the [SWIPE](https://github.com/chanzuckerberg/swipe) and 
-[idseq-workflows](https://github.com/chanzuckerberg/idseq-workflows) repositories.
+infrastructure for the [CZID](https://czid.org/) project (also known as IDseq); a lot of this work is available
+as open source in the [SWIPE](https://github.com/chanzuckerberg/swipe) and 
+[czid-workflows](https://github.com/chanzuckerberg/czid-workflows) repositories.
 
 Prior to CZI, I was involved with a number of biotech startups which gave me the opportunity to become an expert in
 the design and implementation of genome analysis systems and cloud platforms. I am particularly known for building
