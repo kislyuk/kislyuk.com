@@ -22,7 +22,7 @@ COMMENT     REVIEWED REFSEQ: This record has been curated by the author. The
 FEATURES             Location/Qualifiers
      source          1..1765118
                      /strain="GA102-300-A1"
-                     /origin="Ukraine"
+                     /origin="San Francisco"
      affiliation     <a href="https://color.com/">Color Health</a>
                      /title="Software Engineer"
                      /start_date="May 2021"
