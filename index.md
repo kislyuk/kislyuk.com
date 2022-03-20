@@ -22,10 +22,14 @@ COMMENT     REVIEWED REFSEQ: This record has been curated by the author. The
 FEATURES             Location/Qualifiers
      source          1..1765118
                      /strain="GA102-300-A1"
-                     /origin="Russia"
+                     /origin="Ukraine"
+     affiliation     <a href="https://color.com/">Color Health</a>
+                     /title="Software Engineer"
+                     /start_date="May 2021"
      affiliation     <a href="https://chanzuckerberg.com/">Chan Zuckerberg Initiative</a>
                      /title="Software Engineer"
                      /start_date="February 2017"
+                     /end_date="May 2021"
      affiliation     <a href="https://dnanexus.com/">DNAnexus, Inc.</a>
                      /title="Software Engineer"
                      /date_range="September 2011 - February 2016"
