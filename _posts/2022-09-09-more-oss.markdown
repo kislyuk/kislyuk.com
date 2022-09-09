@@ -1,0 +1,26 @@
+---
+layout: single
+title:  "OSS developer experiences: part 2"
+date:   2022-09-09 14:01:00 -0700
+categories: github oss
+---
+
+This is a follow-up to my earlier post, <a href="https://kislyuk.com/github/oss/2020/09/21/oss.html">OSS developer experiences</a>.
+
+In that post, I wrote about a comment that someone made on GitHub telling me to delete my project because it was "causing problems". At first I just closed the issue and moved on, but, as I put it earlier:
+
+> Only recently while sorting through a backlog of issues in need of attention across my OSS projects did I look back at this and realize the ridiculous insidiousness of this comment. ... To tell an OSS developer that they should delete their project is a completely unacceptable way of communicating. It’s a form of harassment, and I will call it out as such. The main reason I bring this up here is to raise awareness. I have enough experience to blow this off and move on without a second thought, but I can easily imagine myself 10 years earlier, when some comment like this from someone I perceive to be competent might discourage me from continuing altogether.
+
+Sadly, I've recently encountered another form of misbehavior on part of an OSS community participant who styles himself an "Open Source Contributor". Apparently, the way this person chose to contribute is by copying [a project of mine](https://github.com/XML-Security/signxml), stripping the LICENSE file out of the project, replacing my name with his own name throughout the project documentation, and publishing the project on GitHub and PyPI. While this person did delete most of the code in the project (making the result non-functional), he kept much of the documentation in place, making it obvious where it was copied from.
+
+I release my OSS projects under the [Apache license](https://www.apache.org/licenses/LICENSE-2.0), which I think strikes the right balance between attribution and freedom of re-use. Specifically, I treat the software I release as if it was an academic paper: if you use it as inspiration, it would be nice if you cited me, but it's not required; if you copy my work directly, it is required that you acknowledge my work as the origin. Doing otherwise and distributing the result is a breach of the license and a copyright violation. Many software engineers and OSS contributors work on derivatives of SignXML (GitHub keeps track of 90 forks - and those are just the forks made in the UI). I'm glad that the project is useful to them, and I'm grateful for their contributions, including bug reports and PRs. This person, though, chose to explicitly violate the license.
+
+When I contacted this person to explain the situation and request attribution, he denied that he copied anything (despite the fact that the copies remained in the project's git history), saying "even if I use signxml in the name of this project both projects are completely different. So, please tell me what I copied from you project line by line." He then closed, and deleted from GitHub, both the original issue and the follow-on where I explicitly requested that he abide by the terms of the license, but there he implicitly acknowledged copying the documentation by saying, "BTW, apart from docs there nothing in common about these two projects". Finally, he deleted the contents of the README.rst file in the root of the project (while the infringing copies, again, remained in the project's git history and on PyPI).
+
+The main reason for writing this post, like the previous one, is, again, awareness. As an OSS developer, you might face situations where people steal your creative output, plagiarize, misattribute it to themselves, and otherwise abuse your work. It's quite likely that you won't have the legal or administrative resources to do anything about this violation (I did try). That's life; not everything in life is perfectly fair or goes our way. But, to quote my previous post again:
+
+> Among the many issues in the world, this one should be relatively easy to spot and eliminate. If you see someone [doing] something like this or otherwise giving grief to an OSS maintainer, chime in and call it out for what it is: harassment. Perhaps the harasser will adjust their behavior, perhaps not, but in any case it can give the maintainer confidence to ignore them. You never know when this bit of support and encouragement might foster the next confident individual, and inspire their amazing contributions to society.
+
+> And perhaps think of any unsponsored open source software that you use and admire the most, and reach out to its volunteer maintainers to thank them (I know I don’t do this enough). 
+
+The only thing I'll add is: act to give the maintainer confidence to ignore *or confront* the harasser - giving them the choice.
