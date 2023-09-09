@@ -1,0 +1,32 @@
+---
+layout: single
+title:  "Wrenching on a budget, 2023 mountain bike edition"
+date:   2022-09-09 15:15:00 -0700
+categories: mtb
+---
+
+Recently I assembled a new bike from store-bought components for the first time. Now is a great time to buy a bike, since components have become cheaper after the supply chain caught up with and overshot the pandemic demand surge. Buying parts individually allows you to take advantage of sales and spend on high-end components only where you know they are worth it. For example, the largest component manufacturer, Shimano, segments its product lines and trickles down the best technology into the lower segments every year. So this year, Shimano Deore XT shifters are worth it for the double-upshift capability, but for the rest of the components, Deore or even "un-branded" Shimano can be perfectly fine.
+
+If you've ever serviced your own bike, assembling a new one is not hard, and comes with a nice sense of accomplishment. You will also gain a better understanding of the fundamentals of how your bike works. YouTube videos from [Park Tool](https://www.youtube.com/@parktool), [Berm Peak Express](https://www.youtube.com/@BermPeakExpress) and other great channels provide a wealth of knowledge. Here I'll list some learning tips for DIY wrenching without spending like you're about to open your own bike shop.
+
+- To install or remove a chain, you will need a [multitool](https://www.rei.com/c/bike-multi-tools) that can press out a chain link pin, to shorten the chain to its desired length. This is very easy. Pressing the pin back in to connect the chain is not required if you bought a quick link chain, which snaps into place.
+
+- To install or remove a cassette, you will need a [cassette lockring tool](https://www.parktool.com/en-us/product/cassette-lockring-tool-fr-5-2) - which is fairly universal, and can also be used on Shimano centerlock disc brake lockrings. When removing a cassette, cassette pliers are recommended, but not required. To get leverage when turning the lockring counter-clockwise, you can improvise by using another rear wheel and wrapping the chain in an S shape around the biggest sprockets on both cassettes.
+
+- To install or remove a bottom bracket, you will need a [bottom bracket tool](https://www.parktool.com/en-us/product/bottom-bracket-tool-16-notch-bbt-59-3), which is unfortunately a lot less standardized. This is the one place where a custom tool is both required for a full build, and also likely to depreciate over time as bike companies come up with yet another bottom bracket standard. (If you can, avoid press-in bottom brackets! They are almost impossible to service yourself if anything goes wrong.)
+
+- To install a headset, you might be told that you need a special press tool, but that's not really the case. All you need is a threaded rod and a set of large, sturdy washers that can evenly distribute force across the top and bottom of the headset. You can pick these up at a local hardware store for less than $10. It also helps to press in one bearing cup at a time, to minimize the chance of tilting either cup and causing damage. (Removing a headset does unfortunately seem to require specialized tools, unless you get very crafty with your washer diameters.)
+
+- To install a crown race (which is the part of your headset that interfaces with your fork), you need a foot long piece of 1.5" PVC pipe to hammer it onto the fork. You don't even need a mallet, as you can turn the fork upside down and gently tap the fork and pipe on a hard surface to bump the crown race on. A 1.5" O-ring can help protect the surface of the race. Again, these can be picked up at your local hardware store for 5 bucks or so.
+
+- To install a fork, you may need to hammer a star nut into the steerer tube. This again may seem daunting or you may see recommendations for a special tool, but all you really need is a long-ish bolt and a mallet, plus some patience to guide the star nut in while it tilts around until it gains purchase against the steerer tube all across its two sets of metal flaps.
+
+- [Many Youtube videos mention this](https://youtu.be/EPQKjGFZkIo?t=40), but there is a trick to making sure your headset is tight and works correctly. If you're not careful when installing the headset cap, you will end up using the cap and star nut to compress the top of the steerer tube instead of the entire fork/bearings/cups/head tube assembly. This will cause your bike to feel loose and wobbly. To avoid this, make sure that the topmost rim of the stem/spacer stack is above the top of the steerer tube - in other words, eliminate the possibility that when tightened, the headset cap will touch the rim of the steerer tube.
+
+- To cut your brake and cable hoses to size, you need some sort of tool that is sharp enough to make a clean cut. I used cutting pliers, but I can see a Dremel cut-off wheel or even a hacksaw working fine if you can clamp the hose without damaging it.
+
+- Connecting hydraulic brake hoses to calipers and levers may seem daunting, but if you've ever connected a faucet, dishwasher, or any other plumbing hose in your kitchen or bathroom, technologically this process is no different. All you need to do is jam the barbed fitting into the tip of the hose, then carefully position the hose and soft metal "olive" ring, and gently wrench the fitting together to compress the ring to form a seal.
+
+- To bleed your own brakes (or fill new brakes with hydraulic oil), all you really need is a small plastic syringe to pump oil into the caliper. The rest of the "bleed kit" can be replaced by wiping down your lever and caliper with a rag.
+
+And that's it! Hopefully this gives you a sense of satisfaction in putting together your own ride!
