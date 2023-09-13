@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Wrenching on a budget, 2023 mountain bike edition"
-date:   2022-09-09 15:15:00 -0700
+date:   2023-09-09 15:15:00 -0700
 categories: mtb
 ---
 
