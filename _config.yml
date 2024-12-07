@@ -15,7 +15,7 @@ github_username:  kislyuk
 twitter: "akislyuk"
 # Build settings
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes@4.20.2"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 #minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 #theme: minimal-mistakes-jekyll
