@@ -24,10 +24,10 @@ FEATURES             Location/Qualifiers
                      /strain="GA102-300-A1"
                      /origin="San Francisco"
      affiliation     <a href="https://color.com/">Color Health</a>
-                     /title="Software Engineer"
+                     /title="Principal Software Engineer"
                      /start_date="May 2021"
      affiliation     <a href="https://chanzuckerberg.com/">Chan Zuckerberg Initiative</a>
-                     /title="Software Engineer"
+                     /title="Principal Software Engineer"
                      /start_date="February 2017"
                      /end_date="May 2021"
      affiliation     <a href="https://dnanexus.com/">DNAnexus, Inc.</a>
