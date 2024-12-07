@@ -57,6 +57,6 @@ FEATURES             Location/Qualifiers
                      /pictures="<a href="http://picasaweb.google.com/ak2178">Picasa</a>"
      social          /twitter="<a href="https://twitter.com/akislyuk">akislyuk</a>"
      contact         /email="<script type="text/javascript">Rot13.write("<n uers=znvygb:xvfylhx@tngrpu.rqh>xvfylhx@tngrpu.rqh</n>");</script>"
-     CV              /document="<a href=http://kislyuk.com/akislyuk.pdf>PDF</a>"
-                     /link="<a href=https://www.linkedin.com/profile/view?id=37639591>LinkedIn</a>"
+     CV              /document="<a href="http://kislyuk.com/akislyuk.pdf">PDF</a>"
+                     /link="<a href="https://www.linkedin.com/profile/view?id=37639591">LinkedIn</a>"
 //</pre>
