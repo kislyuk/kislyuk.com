@@ -23,13 +23,15 @@ FEATURES             Location/Qualifiers
      source          1..1765118
                      /strain="GA102-300-A1"
                      /origin="San Francisco"
+     affiliation     <a href="https://openai.com/">OpenAI</a>
+                     /title="Member of Technical Staff"
+                     /start_date="February 2025"
      affiliation     <a href="https://color.com/">Color Health</a>
                      /title="Principal Software Engineer"
-                     /start_date="May 2021"
+                     /date_range="May 2021 - February 2025"
      affiliation     <a href="https://chanzuckerberg.com/">Chan Zuckerberg Initiative</a>
                      /title="Principal Software Engineer"
-                     /start_date="February 2017"
-                     /end_date="May 2021"
+                     /date_range="February 2017 - May 2021"
      affiliation     <a href="https://dnanexus.com/">DNAnexus, Inc.</a>
                      /title="Software Engineer"
                      /date_range="September 2011 - February 2016"
